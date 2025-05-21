@@ -2,7 +2,7 @@
 
 A desktop application built with Qt for visualizing graph algorithms, managing user accounts, and interacting with graph structures in real-time.
 
-(![Demo](image.png))  
+![Demo](image.png))  
 _Replace this placeholder with an actual screenshot of your application._
 
 ---
