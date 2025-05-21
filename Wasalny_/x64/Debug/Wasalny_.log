@@ -1,0 +1,16 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.9.0
+  graph.cpp
+  HomePage.cpp
+  loginPage.cpp
+  pagesmanager.cpp
+  regesteration.cpp
+  UserManager.cpp
+  main.cpp
+C:\Users\peter\source\repos\Wasalny\graph.cpp(51,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  qrc_Wasalny_.cpp
+  moc_regesteration.cpp
+  moc_pagesmanager.cpp
+  moc_loginPage.cpp
+  moc_HomePage.cpp
+  Wasalny_.vcxproj -> C:\Users\peter\source\repos\Wasalny\x64\Debug\Wasalny_.exe

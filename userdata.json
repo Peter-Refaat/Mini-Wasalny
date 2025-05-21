@@ -1,0 +1,73 @@
+{
+  "namesAndUsers": {
+    "peter": {
+      "graph": {
+        "adj": {
+          "0": [
+            {
+              "to_node_id": 2,
+              "to_node_name": "luxor",
+              "weight": 5
+            },
+            {
+              "to_node_id": 3,
+              "to_node_name": "aswan",
+              "weight": 100
+            }
+          ],
+          "2": [
+            {
+              "to_node_id": 0,
+              "to_node_name": "cairo",
+              "weight": 3
+            }
+          ],
+          "3": [
+            {
+              "to_node_id": 0,
+              "to_node_name": "cairo",
+              "weight": 50
+            }
+          ],
+          "4": [
+            {
+              "to_node_id": 5,
+              "to_node_name": "samalot",
+              "weight": 3
+            }
+          ],
+          "5": [
+            {}
+          ]
+        },
+        "namesAndNodes": {
+          "aswan": {
+            "id": 3,
+            "name": "aswan"
+          },
+          "cairo": {
+            "id": 0,
+            "name": "cairo"
+          },
+          "giza": {
+            "id": 4,
+            "name": "giza"
+          },
+          "luxor": {
+            "id": 2,
+            "name": "luxor"
+          },
+          "samalot": {
+            "id": 5,
+            "name": "samalot"
+          }
+        },
+        "nxt_id": 6
+      },
+      "id": 1,
+      "password": "123",
+      "userName": "peter"
+    }
+  },
+  "uId": 2
+}
