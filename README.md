@@ -31,4 +31,4 @@ A desktop application built with Qt for visualizing graph algorithms, managing u
 - Clear error messages for invalid inputs (red-bordered fields)
 - Color-coded node highlighting during algorithm execution
 - Scrollable table view for large datasets (Floyd-Warshall)
-- Clean input field reset after operations
+- Clean input field reset after operations.
