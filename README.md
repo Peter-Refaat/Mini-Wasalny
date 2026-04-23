@@ -4,7 +4,9 @@ A desktop application built with Qt for visualizing graph algorithms, managing u
 
 ![Demo](image.png)
 
+
 ---
+
 
 ## Features
 
